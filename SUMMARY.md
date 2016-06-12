@@ -10,6 +10,10 @@
   * [附录2. 使用Relay and GraphQL](tutorials/Appendix II. Using Relay and GraphQL.md)
   * [附录3. 移植到Windows](tutorials/Appendix III. Porting the F8 App To Windows.md)  
 * [React Native Resources](native/README.md)
+* [Parse Server](parse/README.md)
+
+
+
   
 
 
