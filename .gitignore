@@ -1,0 +1,17 @@
+## For Mac OS
+.DS_Store
+*.log
+logs
+*.iml
+## Additional for IntelliJ
+.idea/
+*/.idea/
+.idea/*
+gin-bin
+out/
+gen/
+ui/www
+ui/dist
+ui/node_modules
+public
+HackWeek/node_modules
